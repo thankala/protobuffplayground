@@ -1,8 +1,7 @@
 syntax = "proto3";
 
 message myCoordinates {
-    
-    double latitude = 1;
-    double longtitude = 2; 
-    
+
+  double latitude = 1;
+  double longtitude = 2;
 }
