@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package building;
 
-import "building/4/4-street.proto";
+import "building/4-imports-with-packages/4-street.proto";
 
 message Building {
   string name = 1;

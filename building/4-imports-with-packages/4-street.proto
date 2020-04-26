@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-import "building/4/4-city.proto";
+import "building/4-imports-with-packages/4-city.proto";
 package street;
 
 message Street {

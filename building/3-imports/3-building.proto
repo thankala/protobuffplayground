@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-import "building/3/3-street.proto";
+import "building/3-imports/3-street.proto";
 
 message Building {
   string name = 1;
